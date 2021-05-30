@@ -1,0 +1,15 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "first js task",
+  "main": "helloWorld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Uncle Kentaki",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.0.1",
+    "live-server": "^1.2.1"
+  }
+}
